@@ -9,3 +9,5 @@ added text locally
 added text in new branch
 
 created data via browser for conflict
+
+solving conflict
